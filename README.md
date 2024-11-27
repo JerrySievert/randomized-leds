@@ -16,3 +16,7 @@ The Seeed Xiao has a pretty decent DC-DC converter, so I was able to pull power 
 the LED strip, and power the whole thing via the Seeed's USB-C adapter.
 
 The heavy lifting for the LEDs was done using [FastLED](http://fastled.io).
+
+
+https://github.com/user-attachments/assets/6113268f-8405-4ad4-be64-ac755689447e
+
